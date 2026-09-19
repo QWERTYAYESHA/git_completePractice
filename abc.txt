@@ -16,4 +16,12 @@ bugfix3
 bugfix3
 
 i am Ayesha.
+<<<<<<< HEAD
+
+
+DELETE
+=======
 >>>>>>> main
+>>>>>>> main
+
+...................
