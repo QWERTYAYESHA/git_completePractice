@@ -6,8 +6,14 @@ feature3
 feature4
 =======
 bugfix2
+<<<<<<< HEAD
 >>>>>>> main
 =======
 bugfix2
 bugfix3
+>>>>>>> main
+=======
+bugfix3
+
+i am Ayesha.
 >>>>>>> main
