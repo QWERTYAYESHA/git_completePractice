@@ -1,7 +1,19 @@
 feature1+bugfix
 feature2
 feature3
+<<<<<<< HEAD
+<<<<<<< HEAD
+feature4
+=======
 bugfix2
+<<<<<<< HEAD
+>>>>>>> main
+=======
+bugfix2
+bugfix3
+>>>>>>> main
+=======
 bugfix3
 
 i am Ayesha.
+>>>>>>> main
