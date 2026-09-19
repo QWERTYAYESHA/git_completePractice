@@ -1,4 +1,8 @@
-feature1
+feature1+bugfix
 feature2
 feature3
+<<<<<<< HEAD
 feature4
+=======
+bugfix2
+>>>>>>> main
